@@ -1,6 +1,6 @@
 <?php 
-//if else
-$age = 60;
+// if else
+$age = 18;
 
 if($age <= 60){
     echo"Iam young";
@@ -8,3 +8,4 @@ if($age <= 60){
 else{
     echo"Iam older";
 };
+
